@@ -1,3 +1,3 @@
 # Freecodecamp-Project-Practice
 
-This is a project practice from Freecodecamp.
+This is a project practice for assignment Freecodecamp.
